@@ -1,4 +1,3 @@
 # CV  
 
-This repository is to store my works in computer vision.  
-"main_VGG16" file is part of my final artile in my Data Science MBA.
+Here goes the final code of my Final Article. You can see my [Final Article](https://www.linkedin.com/in/gustavo-miranda-dos-santos/) (in portuguese) in my LinkedIn.
